@@ -1,4 +1,4 @@
-# Coding-Challenge---Athinia
+# Coding19-AQI_Analysis
 This repository shows the analysis of challenge given by Athinia
 
 <a href="https://docs.google.com/document/d/e/2PACX-1vR05QRczszrDYV8pMOwbA1BF1yEdaXhPcjqj20wfkwEjQKqqmxRaatfgUJ_66LBWNjztyjRNhEShtzC/pub" title="Analysis Report">Analysis Report</a>
